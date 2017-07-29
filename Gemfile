@@ -46,7 +46,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   #gem 'sqlite3',     '1.3.9'
   gem 'byebug',      '3.4.0'
-   gem 'pg',             '0.17.1'
+  gem 'pg',             '0.17.1'
   gem 'web-console', '3.5.0'
   gem 'spring',      '1.1.3'
 end
