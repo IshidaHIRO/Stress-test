@@ -1,0 +1,14 @@
+language: ruby
+rvm:
+- 2.2.5
+
+ bundler_args: --without development --development
+ cache: bundler
+ 
+ before_script:
+  -cp config/database.travis.yml config/database.yml
+  -bundle exec rake db:create
+  -bundle exec rake db:migtate
+ 
+ script:
+  -bundle exec rspec spec
