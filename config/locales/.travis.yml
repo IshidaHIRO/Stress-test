@@ -3,6 +3,7 @@
   - 2.2.5
 
  bundler_args: --without development --development
+ 
  cache: bundler
  
  addons:
