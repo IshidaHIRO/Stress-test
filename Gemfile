@@ -54,6 +54,7 @@ end
 group :production do
   # Access an IRB console on exception pages or by using <%= console %> in views
  
-  gem 'rails_12factor', '0.0.2'
+  gem 'rails_12factor', group: :production
+  ruby '2.2.5'
 end
 #ruby "2.3.0"
