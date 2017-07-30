@@ -56,6 +56,6 @@ group :production do
   # Access an IRB console on exception pages or by using <%= console %> in views
  
 
-  ruby '2.2.5'
+  ruby '2.3.0'
 end
 #ruby "2.3.0"
