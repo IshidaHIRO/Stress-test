@@ -3,6 +3,10 @@ Rails.application.routes.draw do
 
 ###
   get    '/guchi'    => 'static_pages#guchi'
+  get    '/jiman'    => 'static_pages#jiman'
+  get    '/inori'    => 'static_pages#inori'
+  get    '/list'    => 'static_pages#list'
+  get    '/guchi-feedback' => 'static_pages#guchi-feedback'
 ###
 
   get 'static_pages/help'
