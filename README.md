@@ -1,21 +1,9 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
+    
 
 Welcome to your Rails project on Cloud9 IDE!
 
-To get started, just do the following:
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://stressshredder-qiligeru.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
 
 
 ## Support & Documentation
@@ -35,6 +23,7 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 ##### [同僚や牧師さんやホステスさんや日記やPeper(ペッパー)やペット]とは違って、  
 ##### [手軽に内緒に記録し、後から振り返れる]が備わっている。  
 ***
-####関連リンク
-[Heroku](https://intense-mesa-24634.herokuapp.com)
-[Backlog](https://github.com/chubachi-pt-2017/StressShredder/projects/1)
+#### 関連リンク
+[Heroku]()
+[Backlog](https://github.com/chubachi-pt-2017/StressShredder/projects/1)  
+
