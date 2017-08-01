@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.0.0
+- 1.9.3
+- jruby-19mode
+- rbx-2
+deploy:
+  provider: heroku
+  api_key:
+    secure: j7TAkfAv0INtWwzJcBYkJSeFbtyqQq7E1+I3gUQ1o3ZEue9OPHayCC0QFacUbsBNYIwNTgVFzyukDqnbuCk00GuZyJLNpm5Fod1/yPjavNRUh5EXeIZNqkRLSEGOTeTY3ZEEYSkYnQqVdhvEipG08qEgnblFWztyMH3ggzhW/DhrR/3MS4kqsIpRTrCxi7iww/zcxlcfDLgd2JQPhUE3s1axL5ZkMb3WXbzJhxM4kHNhC+Uc0+CWn1m30u+oLOh0g24XdWoiGx70vuk9AdBVLj0hj5dU6THqX/T+MKAtbFaILo07mrx7QPD65SiO5FaJXZC+UwVu8wurvTe4iQq7DWZIH1uK2z5IO+F6viAwdjegXl1n25iiQyHPutRSWH5B6Fsu1f+3Cj9Xp7CgUOIDCK7GE76rGn1upF+My47BlsieCsr8vcPvTT74POHTEyMvuVvrfbdHVF7VhD5C8q3LDgaKUg5GTf8awBisycNSd0aLpDZzjvYPGN6lL2gK/eVYH6YZSmIF62Mcp9dhzCmj4atMRoEzgVx5Lxcz+VYrPHQiF1Iz8/dCuf6VlWKw+tgcJpuGOwXlLv6N8oBb81sNkY0SlUVMAvW8yNOYhJzasW1nKDhOceUKgAaqpGaQP3cw/o2sjzs5EGh8KH6bG4pTTA154GwlHu5jlZNKnNnrjo0=
+  app: pacific-refuge-44100
+  on:
+    repo: IshidaHIRO/Stress-test
